@@ -1,5 +1,9 @@
 # recipapp
 
+## Visualiser le site
+Le code a été versionner sur GIT et déployé sur GITHUB [clique ici](hhttps://mehdiboutab.github.io/recipapp/)
+
+
 ## Project setup
 ```
 npm install
