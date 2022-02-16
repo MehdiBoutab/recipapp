@@ -1,6 +1,7 @@
 <template>
   <router-view />
 </template>
+
 <style>
 * {
   margin: 0;
@@ -16,11 +17,13 @@ a {
   color: #2aeb74;
   text-decoration: none;
 }
+
 button {
   appearance: none;
   border: none;
   background: none;
   cursor: pointer;
+
   background-color: #2aeb74;
   font-size: 1.125rem;
   color: #030e1b;
